@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá! Eu sou o César Zanotelli 👋
+<div>
 
-<!--
-**CesarZanotelli1/CesarZanotelli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Encantado, Rio Grande do Sul, Brasil
 
-Here are some ideas to get you started:
+💼 Auxiliar de informática na <a href="dalia.com.br">Dalia Alimentos</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Estudando Engenharia de Software na <a href="https://www.univates.br">Univates</a>
+
+</div>
+<h2 dir="auto"></h2>
+<div align="center" dir="auto">
+  <div class="markdown-heading" dir="auto"> 
+     <h3 class="heading-element" dir="auto">Contatos</h3>
+     <a href = "https://www.instagram.com/cesar_zanotelli_/"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank"></a>
+  </div>
+ 
+</div>
